@@ -14,7 +14,7 @@ This repository features three fun, beginner-friendly terminal games—**no exte
 
 ## 🚀 Getting Started
 
-1. **Clone this repository** or [download ZIP](https://github.com/your-repo-link).
+1. **Clone this repository** or [download ZIP]([https://github.com/your-repo-link](https://github.com/Dhananjaya029/NeuroGen-Games.git)).
 2. Make sure you have **JacLang** installed and configured.
 3. Run each game using JacLang's interpreter or compiler, e.g.:
 jac run tictactoe.jac
